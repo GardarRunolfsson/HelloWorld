@@ -1,10 +1,10 @@
 {
-    "id":  "00000000-0000-0000-0000-000000000001",
-    "name":  "Default App Name",
-    "publisher":  "Default Publisher",
+    "id":  "8cc2b607-7d25-43be-a5f4-48d7b8d53c47",
+    "name":  "My App",
+    "publisher":  "My Name",
     "brief":  "Hello World for AppSource",
     "description":  "Hello World sample app for AppSource",
-    "version":  "2.0.0.0",
+    "version":  "1.0.0.0",
     "privacyStatement":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
     "EULA":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
     "help":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
@@ -13,10 +13,10 @@
     "logo":  "helloworld256x240.png",
     "dependencies":  [
                          {
-                             "id":  "00000000-0000-0000-0000-000000000003",
-                             "publisher":  "Default Publisher",
-                             "name":  "Default Base App Name",
-                             "version":  "2.0.0.0"
+                             "id":  "7b5578ec-f24f-40a0-850e-04e81983967a",
+                             "publisher":  "My Name",
+                             "name":  "My Base App",
+                             "version":  "1.0.0.0"
                          }
                      ],
     "screenshots":  [
@@ -26,8 +26,8 @@
     "platform":  "17.0.0.0",
     "idRanges":  [
                      {
-                         "from":  70074169,
-                         "to":  70074218
+                         "from":  70075169,
+                         "to":  70075218
                      }
                  ],
     "runtime":  "6.0",

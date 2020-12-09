@@ -1,4 +1,4 @@
-codeunit 70074169 "hw_Hello Base"
+codeunit 70075169 "hw_Hello Base"
 {
     trigger OnRun()
     begin
