@@ -2,7 +2,7 @@
     "name":  "HelloWorld.AppSource",
     "memoryLimit":  "6G",
     "installApps":  "",
-    "previousApps":  "https://Cenium.com/githubhelloworld-appsource/latest/apps.zip",
+    "previousApps":  "https://businesscentralapps.blob.core.windows.net/githubhelloworld-preview/latest/apps.zip",    
     "appFolders":  "app,base",
     "testFolders":  "test",
     "installTestFramework":  true,
